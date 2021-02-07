@@ -24,4 +24,4 @@ Reach me out!
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=dmetrosk.dmetrosk)
 
 #### Github Stats
-[![dmetrosk's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmetrosk&count_private=true&hide=stars,prs,issues,contribs&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![dmetrosk's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmetrosk&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
